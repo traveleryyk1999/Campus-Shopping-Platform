@@ -1,5 +1,5 @@
 ## About this project
-This is a project that implements the web application as a shopping platform using **Spring F**, **MySQL** and **jQuery**. (For all frameworks I used, please check out the [pom.xml](https://github.com/traveleryyk1999/Campus-Shopping-Platform/blob/main/pom.xml))
+This is a project that implements the web application as a shopping platform using **Spring**, **MySQL** and **jQuery**. (For all frameworks I used, please check out the [pom.xml](https://github.com/traveleryyk1999/Campus-Shopping-Platform/blob/main/pom.xml))
 
 ## Structure
 This project uses Spring MVC structure basically. Model corresponds to the files under the **entity** folder, View and Controller correspond to the files under the **web** folder.
